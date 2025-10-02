@@ -1,6 +1,8 @@
 # ClassSync
 ## The Core Solution for Completing Your School's AI Learning Environment 
-![image](https://github.com/user-attachments/assets/8efb38f7-aaa0-464b-9316-ba76f69bb6fb)
+<img width="1198" height="392" alt="image" src="https://github.com/user-attachments/assets/087bdb7c-63e0-423e-a5ef-11251087d987" />
+
+#### [➡️ Download ClassSync from the Microsoft Store](https://apps.microsoft.com/detail/9PJ792P907Q9?referrer=appbadge&launch=true&mode=full)
 
 <div align="center">
   <a href="https://apps.microsoft.com/detail/9PJ792P907Q9?referrer=appbadge&launch=true&mode=full" target="_blank">

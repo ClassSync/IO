@@ -45,7 +45,7 @@ It removes the hassle of switching between platforms, allowing teachers and stud
 * **Automated Class Environment Setup:**
     * **Microsoft Teams Class Teams** and **Google Classroom Classes** are **automatically created** and their members synchronized based on school data, eliminating manual roster management for teachers so they can focus entirely on lesson planning.
 * **Public Education Platform Linkage:**
-    * It enables **SSO login** (via OAuth/SAML) to metropolitan/provincial education office **public education platforms (e.g., GMOOC)** without separate registration, lowering the barrier to utilizing public education services.
+    * It enables **SSO login** (via OAuth/SAML) to metropolitan/provincial education office **public education platforms** without separate registration, lowering the barrier to utilizing public education services.
 
 ### 4. 💡 Expanded Learning Experience and Teacher Flexibility
 

@@ -2,6 +2,12 @@
 ## The Core Solution for Completing Your School's AI Learning Environment 
 ![image](https://github.com/user-attachments/assets/8efb38f7-aaa0-464b-9316-ba76f69bb6fb)
 
+<div align="center">
+  <a href="https://apps.microsoft.com/detail/9PJ792P907Q9?referrer=appbadge&launch=true&mode=full" target="_blank">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200" alt="Download from the Microsoft Store"/>
+  </a>
+</div>
+
 ---
 
 ClassSync is an innovative solution that **integrates and manages the accounts and class structures** of two major educational platforms, Microsoft 365 (Teams) and Google Workspace (Classroom). It drastically reduces the administrative burden on school IT staff and maximizes the digital learning experience for teachers and students.
@@ -52,3 +58,5 @@ Through ClassSync, teachers and students benefit from a broader and richer digit
 
 ---
 **ClassSync will be the most powerful tool for driving a successful digital transformation in your school, offering efficiency to IT administrators and a more convenient and enriched learning experience to teachers and students.**
+
+

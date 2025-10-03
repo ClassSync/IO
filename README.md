@@ -21,7 +21,7 @@ Here are the core values and advantages that ClassSync provides to schools:
 ClassSync automates essential IT management tasks, freeing up administrative staff to focus on core educational responsibilities.
 
 * **Batch Account Creation and Management for Both Platforms:**
-    * Based on a **single source list** (e.g., NEIS class data), it **automatically and simultaneously creates** Microsoft 365 and Google Workspace accounts.
+    * Based on a **single source list**, it **automatically and simultaneously creates** Microsoft 365 and Google Workspace accounts.
     * It handles large-scale account management tasks like **batch domain changes, password resets, and account deletion**, significantly saving time and effort.
 * **Automated Transition for Academic Year Changes:**
     * It automatically manages changes such as **Organizational Unit (OU) and display name updates** for students advancing to the next grade, new student account deployment, and graduate account processing. This **streamlines the back-to-school preparation** and minimizes errors.

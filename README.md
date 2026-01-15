@@ -61,4 +61,4 @@ Through ClassSync, teachers and students benefit from a broader and richer digit
 ---
 **ClassSync will be the most powerful tool for driving a successful digital transformation in your school, offering efficiency to IT administrators and a more convenient and enriched learning experience to teachers and students.**
 
-
+### ClassSync Lab @ DONGSEO
